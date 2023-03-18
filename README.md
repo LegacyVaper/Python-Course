@@ -2,14 +2,14 @@
 
 ### This course covers the following topics:
 
-1. [Introduction to Python](#introduction-to-python)
-2. [Control Flow](#control-flow)
-3. [Data Structures](#data-structures)
-4. [Functions](#functions)
-5. [Modules](#modules)
-6. [File Handling](#file-handling)
-7. [Object-Oriented Programming](#object-oriented-programming)
-8. [Intermediate Topics](#intermediate-topics)
+1. [Introduction to Python](course/basics.md)
+2. [Control Flow](course/controlflow.md)
+3. [Data Structures](course/datastructure.md)
+4. [Functions](course/function.md)
+5. [Modules](course/modules.md)
+6. [File Handling](course/filehandling.md)
+7. [Object-Oriented Programming](course/oop.md)
+8. [Intermediate Topics](course/intermedtopics.md)
 
 ---
 
